@@ -5,7 +5,7 @@ Simple password generator `cli` using `node`.
 Containing characters for password generation:
 - alphabets - `a-zA-Z`
 - numbers - `0-9`
-- symboles - `!@#$%^&*_-+=`
+- symbols - `!@#$%^&*_-+=`
 
 ## Options
 
